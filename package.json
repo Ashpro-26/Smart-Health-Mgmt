@@ -2,6 +2,7 @@
   "name": "healthcare-portal",
   "version": "0.1.0",
   "description": "A website for remote consultancy and other essential health related services",
+  "homepage": "https://ashpro-26.github.io/Smart-Health-Mgmt",
   "private": true,
   "browser": {
     "crypto": false,
