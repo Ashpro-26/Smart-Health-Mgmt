@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smart-Health-Mgmt/static/css/main.546ec50b.css",
+    "main.js": "/Smart-Health-Mgmt/static/js/main.39526e30.js",
+    "static/js/453.64a7ee09.chunk.js": "/Smart-Health-Mgmt/static/js/453.64a7ee09.chunk.js",
+    "index.html": "/Smart-Health-Mgmt/index.html",
+    "main.546ec50b.css.map": "/Smart-Health-Mgmt/static/css/main.546ec50b.css.map",
+    "main.39526e30.js.map": "/Smart-Health-Mgmt/static/js/main.39526e30.js.map",
+    "453.64a7ee09.chunk.js.map": "/Smart-Health-Mgmt/static/js/453.64a7ee09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.546ec50b.css",
+    "static/js/main.39526e30.js"
+  ]
+}
